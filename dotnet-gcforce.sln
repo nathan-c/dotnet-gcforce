@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-gcforce", "dotnet-gcforce\dotnet-gcforce.csproj", "{75ECC0D0-73C9-48E7-AE9B-84D782E852C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongRunningProcess", "LongRunningProcess\LongRunningProcess.csproj", "{0D9F9081-353F-412B-9178-7D550EEDA8F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{95C493EC-7159-45DC-81AC-361D6AF3A900}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ECC0D0-73C9-48E7-AE9B-84D782E852C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ECC0D0-73C9-48E7-AE9B-84D782E852C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ECC0D0-73C9-48E7-AE9B-84D782E852C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ECC0D0-73C9-48E7-AE9B-84D782E852C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9F9081-353F-412B-9178-7D550EEDA8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9F9081-353F-412B-9178-7D550EEDA8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9F9081-353F-412B-9178-7D550EEDA8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9F9081-353F-412B-9178-7D550EEDA8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
